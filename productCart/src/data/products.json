@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 50000,
+        "category": "Electronics",
+        "brand": "Dell",
+        "rating": 4.5,
+        "image": "https://picsum.photos/seed/laptop/300/200"
+    },
+    {
+        "id": 2,
+        "name": "Wireless Mouse",
+        "price": 1000,
+        "category": "Accessories",
+        "brand": "Logitech",
+        "rating": 4.3,
+        "image": "https://picsum.photos/seed/mouse/300/200"
+    },
+    {
+        "id": 3,
+        "name": "Mechanical Keyboard",
+        "price": 2500,
+        "category": "Accessories",
+        "brand": "Keychron",
+        "rating": 4.6,
+        "image": "https://picsum.photos/seed/keyboard/300/200"
+    },
+    {
+        "id": 4,
+        "name": "Monitor",
+        "price": 15000,
+        "category": "Electronics",
+        "brand": "Samsung",
+        "rating": 4.4,
+        "image": "https://picsum.photos/seed/monitor/300/200"
+    },
+    {
+        "id": 5,
+        "name": "Headphones",
+        "price": 3000,
+        "category": "Audio",
+        "brand": "Sony",
+        "rating": 4.7,
+        "image": "https://picsum.photos/seed/headphones/300/200"
+    },
+    {
+        "id": 6,
+        "name": "Webcam",
+        "price": 4500,
+        "category": "Accessories",
+        "brand": "Logitech",
+        "rating": 4.2,
+        "image": "https://picsum.photos/seed/webcam/300/200"
+    },
+    {
+        "id": 7,
+        "name": "Smartphone",
+        "price": 30000,
+        "category": "Electronics",
+        "brand": "Samsung",
+        "rating": 4.5,
+        "image": "https://picsum.photos/seed/smartphone/300/200"
+    },
+    {
+        "id": 8,
+        "name": "Bluetooth Speaker",
+        "price": 3500,
+        "category": "Audio",
+        "brand": "JBL",
+        "rating": 4.6,
+        "image": "https://picsum.photos/seed/speaker/300/200"
+    },
+    {
+        "id": 9,
+        "name": "Tablet",
+        "price": 22000,
+        "category": "Electronics",
+        "brand": "Lenovo",
+        "rating": 4.3,
+        "image": "https://picsum.photos/seed/tablet/300/200"
+    },
+    {
+        "id": 10,
+        "name": "USB-C Cable",
+        "price": 500,
+        "category": "Accessories",
+        "brand": "Anker",
+        "rating": 4.1,
+        "image": "https://picsum.photos/seed/cable/300/200"
+    }
+]
